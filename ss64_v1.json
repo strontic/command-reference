@@ -10,7 +10,6 @@
    "title": "Linux",
    "header": "An A-Z Index of the Linux command line: bash + utilities.",
    "reference": [
-   {
     {
      "command": "alias",
      "description": "Create an alias •"
