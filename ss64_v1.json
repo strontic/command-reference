@@ -4462,7 +4462,7 @@
     }
     {
      "command": "Pause",
-     "description": "Pause and display the message \"Press Enter to continue...\"
+     "description": "Pause and display the message \"Press Enter to continue...\""
     }
     {
      "command": "Invoke-Pester",
